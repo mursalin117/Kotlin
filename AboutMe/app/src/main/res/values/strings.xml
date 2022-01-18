@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">m3c</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi this me, m3c!!\n\n
+        I am nobody but trying to be somebody. This is nothing but my resolve.\n\n
+        Who wants to be a burden in the society??
+        \nThe answer is no body.\n\n
+        So try to be somebody in the life who can do at least something.\n\n
+        There is no place for coward.\n
+        Be brave and come out.\n
+        This is your life.\n
+        Live to the fullest.\n
+        Obviously in the hala way.\n
+        Because in the end only Allah matters.\n
+        And through Allah one can get the true happiness.\n
+        So, build a good relationship with Allah.\n
+        Hope you will get succeeded.\n\n
+    </string>
+    <string name="what_is_your_nick_name">what is your nick name?</string>
+    <string name="done">Done</string>
+</resources>
